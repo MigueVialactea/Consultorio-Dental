@@ -1,0 +1,129 @@
+C:\Users\Sonia\Desktop\Proyecto\Juanito\sistec2015\sistec2015\bin\Debug\Docs\path.txt
+C:\Users\Sonia\Desktop\Proyecto\Juanito\sistec2015\sistec2015\bin\Debug\sistec2015.exe
+C:\Users\Sonia\Desktop\Proyecto\Juanito\sistec2015\sistec2015\bin\Debug\sistec2015.pdb
+C:\Users\Sonia\Desktop\Proyecto\Juanito\sistec2015\sistec2015\bin\Debug\sistec2015.xml
+C:\Users\Sonia\Desktop\Proyecto\Juanito\sistec2015\sistec2015\obj\x86\Debug\CONSULTORIO.vbprojResolveAssemblyReference.cache
+C:\Users\Sonia\Desktop\Proyecto\Juanito\sistec2015\sistec2015\obj\x86\Debug\sistec2015.FrmIngresar.resources
+C:\Users\Sonia\Desktop\Proyecto\Juanito\sistec2015\sistec2015\obj\x86\Debug\sistec2015.MEDICAMENTO.resources
+C:\Users\Sonia\Desktop\Proyecto\Juanito\sistec2015\sistec2015\obj\x86\Debug\sistec2015.REGISTRO.resources
+C:\Users\Sonia\Desktop\Proyecto\Juanito\sistec2015\sistec2015\obj\x86\Debug\sistec2015.FrmReportes.resources
+C:\Users\Sonia\Desktop\Proyecto\Juanito\sistec2015\sistec2015\obj\x86\Debug\sistec2015.FrmMenu.resources
+C:\Users\Sonia\Desktop\Proyecto\Juanito\sistec2015\sistec2015\obj\x86\Debug\sistec2015.FrmCrearRespaldo.resources
+C:\Users\Sonia\Desktop\Proyecto\Juanito\sistec2015\sistec2015\obj\x86\Debug\sistec2015.Resources.resources
+C:\Users\Sonia\Desktop\Proyecto\Juanito\sistec2015\sistec2015\obj\x86\Debug\CONSULTORIO.vbproj.GenerateResource.Cache
+C:\Users\Sonia\Desktop\Proyecto\Juanito\sistec2015\sistec2015\obj\x86\Debug\sistec2015.exe
+C:\Users\Sonia\Desktop\Proyecto\Juanito\sistec2015\sistec2015\obj\x86\Debug\sistec2015.xml
+C:\Users\Sonia\Desktop\Proyecto\Juanito\sistec2015\sistec2015\obj\x86\Debug\sistec2015.pdb
+C:\Users\Sonia\Desktop\Proyecto\Juanito\sistec2015\sistec2015\obj\x86\Debug\sistec2015.SERVICIO.resources
+C:\Users\Sonia\Desktop\Proyecto\Juanito\sistec2015\sistec2015\obj\x86\Debug\sistec2015.DENTISTA.resources
+C:\Users\Sonia\Desktop\Proyecto\Juanito\sistec2015\sistec2015\obj\x86\Debug\sistec2015.RECETA.resources
+C:\Users\Sonia\Desktop\Proyecto\sistec2015\obj\x86\Debug\sistec2015.exe
+C:\Users\Sonia\Desktop\Proyecto\sistec2015\obj\x86\Debug\sistec2015.xml
+C:\Users\Sonia\Desktop\Proyecto\sistec2015\obj\x86\Debug\sistec2015.pdb
+C:\Users\Sonia\Desktop\Proyecto\sistec2015\bin\Debug\Docs\path.txt
+C:\Users\Sonia\Desktop\Proyecto\sistec2015\bin\Debug\sistec2015.exe
+C:\Users\Sonia\Desktop\Proyecto\sistec2015\bin\Debug\sistec2015.pdb
+C:\Users\Sonia\Desktop\Proyecto\sistec2015\bin\Debug\sistec2015.xml
+C:\Users\Sonia\Desktop\Proyecto\sistec2015\obj\x86\Debug\CONSULTORIO.vbprojResolveAssemblyReference.cache
+C:\Users\Sonia\Desktop\Proyecto\sistec2015\obj\x86\Debug\sistec2015.DENTISTA.resources
+C:\Users\Sonia\Desktop\Proyecto\sistec2015\obj\x86\Debug\sistec2015.FrmIngresar.resources
+C:\Users\Sonia\Desktop\Proyecto\sistec2015\obj\x86\Debug\sistec2015.MEDICAMENTO.resources
+C:\Users\Sonia\Desktop\Proyecto\sistec2015\obj\x86\Debug\sistec2015.RECETA.resources
+C:\Users\Sonia\Desktop\Proyecto\sistec2015\obj\x86\Debug\sistec2015.REGISTRO.resources
+C:\Users\Sonia\Desktop\Proyecto\sistec2015\obj\x86\Debug\sistec2015.FrmMenu.resources
+C:\Users\Sonia\Desktop\Proyecto\sistec2015\obj\x86\Debug\sistec2015.Resources.resources
+C:\Users\Sonia\Desktop\Proyecto\sistec2015\obj\x86\Debug\sistec2015.SERVICIO.resources
+C:\Users\Sonia\Desktop\Proyecto\sistec2015\obj\x86\Debug\CONSULTORIO.vbproj.GenerateResource.Cache
+C:\Users\miguel\Documents\isc\6to semestre\roos\Proyecto\sistec2015\obj\x86\Debug\sistec2015.exe
+C:\Users\miguel\Documents\isc\6to semestre\roos\Proyecto\sistec2015\obj\x86\Debug\sistec2015.xml
+C:\Users\miguel\Documents\isc\6to semestre\roos\Proyecto\sistec2015\obj\x86\Debug\sistec2015.pdb
+C:\Users\miguel\Documents\isc\6to semestre\roos\Proyecto\sistec2015\bin\Debug\Docs\path.txt
+C:\Users\miguel\Documents\isc\6to semestre\roos\Proyecto\sistec2015\bin\Debug\sistec2015.exe
+C:\Users\miguel\Documents\isc\6to semestre\roos\Proyecto\sistec2015\bin\Debug\sistec2015.pdb
+C:\Users\miguel\Documents\isc\6to semestre\roos\Proyecto\sistec2015\bin\Debug\sistec2015.xml
+C:\Users\miguel\Documents\isc\6to semestre\roos\Proyecto\sistec2015\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\miguel\Documents\isc\6to semestre\roos\Proyecto\sistec2015\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\miguel\Documents\isc\6to semestre\roos\Proyecto\sistec2015\obj\x86\Debug\CONSULTORIO.vbprojResolveAssemblyReference.cache
+C:\Users\miguel\Documents\isc\6to semestre\roos\Proyecto\sistec2015\obj\x86\Debug\sistec2015.DENTISTA.resources
+C:\Users\miguel\Documents\isc\6to semestre\roos\Proyecto\sistec2015\obj\x86\Debug\sistec2015.FrmIngresar.resources
+C:\Users\miguel\Documents\isc\6to semestre\roos\Proyecto\sistec2015\obj\x86\Debug\sistec2015.MEDICAMENTO.resources
+C:\Users\miguel\Documents\isc\6to semestre\roos\Proyecto\sistec2015\obj\x86\Debug\sistec2015.RECETA.resources
+C:\Users\miguel\Documents\isc\6to semestre\roos\Proyecto\sistec2015\obj\x86\Debug\sistec2015.REGISTRO.resources
+C:\Users\miguel\Documents\isc\6to semestre\roos\Proyecto\sistec2015\obj\x86\Debug\sistec2015.FrmMenu.resources
+C:\Users\miguel\Documents\isc\6to semestre\roos\Proyecto\sistec2015\obj\x86\Debug\sistec2015.Resources.resources
+C:\Users\miguel\Documents\isc\6to semestre\roos\Proyecto\sistec2015\obj\x86\Debug\sistec2015.SERVICIO.resources
+C:\Users\miguel\Documents\isc\6to semestre\roos\Proyecto\sistec2015\obj\x86\Debug\CONSULTORIO.vbproj.GenerateResource.Cache
+G:\Proyecto\sistec2015\obj\x86\Debug\sistec2015.exe
+G:\Proyecto\sistec2015\obj\x86\Debug\sistec2015.xml
+G:\Proyecto\sistec2015\obj\x86\Debug\sistec2015.pdb
+G:\Proyecto\sistec2015\bin\Debug\Docs\path.txt
+G:\Proyecto\sistec2015\bin\Debug\sistec2015.exe
+G:\Proyecto\sistec2015\bin\Debug\sistec2015.pdb
+G:\Proyecto\sistec2015\bin\Debug\sistec2015.xml
+G:\Proyecto\sistec2015\obj\x86\Debug\CONSULTORIO.vbprojResolveAssemblyReference.cache
+G:\Proyecto\sistec2015\obj\x86\Debug\sistec2015.DENTISTA.resources
+G:\Proyecto\sistec2015\obj\x86\Debug\sistec2015.FrmIngresar.resources
+G:\Proyecto\sistec2015\obj\x86\Debug\sistec2015.MEDICAMENTO.resources
+G:\Proyecto\sistec2015\obj\x86\Debug\sistec2015.RECETA.resources
+G:\Proyecto\sistec2015\obj\x86\Debug\sistec2015.REGISTRO.resources
+G:\Proyecto\sistec2015\obj\x86\Debug\sistec2015.FrmMenu.resources
+G:\Proyecto\sistec2015\obj\x86\Debug\sistec2015.Resources.resources
+G:\Proyecto\sistec2015\obj\x86\Debug\sistec2015.SERVICIO.resources
+G:\Proyecto\sistec2015\obj\x86\Debug\CONSULTORIO.vbproj.GenerateResource.Cache
+C:\Users\Sonia\Desktop\Proyecto1\sistec2015\obj\x86\Debug\sistec2015.exe
+C:\Users\Sonia\Desktop\Proyecto1\sistec2015\obj\x86\Debug\sistec2015.xml
+C:\Users\Sonia\Desktop\Proyecto1\sistec2015\obj\x86\Debug\sistec2015.pdb
+C:\Users\Sonia\Desktop\Proyecto1\sistec2015\bin\Debug\Docs\path.txt
+C:\Users\Sonia\Desktop\Proyecto1\sistec2015\bin\Debug\sistec2015.exe
+C:\Users\Sonia\Desktop\Proyecto1\sistec2015\bin\Debug\sistec2015.pdb
+C:\Users\Sonia\Desktop\Proyecto1\sistec2015\bin\Debug\sistec2015.xml
+C:\Users\Sonia\Desktop\Proyecto1\sistec2015\obj\x86\Debug\CONSULTORIO.vbprojResolveAssemblyReference.cache
+C:\Users\Sonia\Desktop\Proyecto1\sistec2015\obj\x86\Debug\sistec2015.DENTISTA.resources
+C:\Users\Sonia\Desktop\Proyecto1\sistec2015\obj\x86\Debug\sistec2015.FrmIngresar.resources
+C:\Users\Sonia\Desktop\Proyecto1\sistec2015\obj\x86\Debug\sistec2015.MEDICAMENTO.resources
+C:\Users\Sonia\Desktop\Proyecto1\sistec2015\obj\x86\Debug\sistec2015.RECETA.resources
+C:\Users\Sonia\Desktop\Proyecto1\sistec2015\obj\x86\Debug\sistec2015.REGISTRO.resources
+C:\Users\Sonia\Desktop\Proyecto1\sistec2015\obj\x86\Debug\sistec2015.FrmMenu.resources
+C:\Users\Sonia\Desktop\Proyecto1\sistec2015\obj\x86\Debug\sistec2015.Resources.resources
+C:\Users\Sonia\Desktop\Proyecto1\sistec2015\obj\x86\Debug\sistec2015.SERVICIO.resources
+C:\Users\Sonia\Desktop\Proyecto1\sistec2015\obj\x86\Debug\CONSULTORIO.vbproj.GenerateResource.Cache
+C:\Users\miguel\Documents\isc\6to semestre\roos\Proyecto1\sistec2015\obj\x86\Debug\sistec2015.exe
+C:\Users\miguel\Documents\isc\6to semestre\roos\Proyecto1\sistec2015\obj\x86\Debug\sistec2015.xml
+C:\Users\miguel\Documents\isc\6to semestre\roos\Proyecto1\sistec2015\obj\x86\Debug\sistec2015.pdb
+C:\Users\miguel\Documents\isc\6to semestre\roos\Proyecto1\sistec2015\bin\Debug\Docs\path.txt
+C:\Users\miguel\Documents\isc\6to semestre\roos\Proyecto1\sistec2015\bin\Debug\sistec2015.exe
+C:\Users\miguel\Documents\isc\6to semestre\roos\Proyecto1\sistec2015\bin\Debug\sistec2015.pdb
+C:\Users\miguel\Documents\isc\6to semestre\roos\Proyecto1\sistec2015\bin\Debug\sistec2015.xml
+C:\Users\miguel\Documents\isc\6to semestre\roos\Proyecto1\sistec2015\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\miguel\Documents\isc\6to semestre\roos\Proyecto1\sistec2015\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\miguel\Documents\isc\6to semestre\roos\Proyecto1\sistec2015\obj\x86\Debug\CONSULTORIO.vbprojResolveAssemblyReference.cache
+C:\Users\miguel\Documents\isc\6to semestre\roos\Proyecto1\sistec2015\obj\x86\Debug\sistec2015.DENTISTA.resources
+C:\Users\miguel\Documents\isc\6to semestre\roos\Proyecto1\sistec2015\obj\x86\Debug\sistec2015.FrmIngresar.resources
+C:\Users\miguel\Documents\isc\6to semestre\roos\Proyecto1\sistec2015\obj\x86\Debug\sistec2015.MEDICAMENTO.resources
+C:\Users\miguel\Documents\isc\6to semestre\roos\Proyecto1\sistec2015\obj\x86\Debug\sistec2015.RECETA.resources
+C:\Users\miguel\Documents\isc\6to semestre\roos\Proyecto1\sistec2015\obj\x86\Debug\sistec2015.REGISTRO.resources
+C:\Users\miguel\Documents\isc\6to semestre\roos\Proyecto1\sistec2015\obj\x86\Debug\sistec2015.FrmMenu.resources
+C:\Users\miguel\Documents\isc\6to semestre\roos\Proyecto1\sistec2015\obj\x86\Debug\sistec2015.Resources.resources
+C:\Users\miguel\Documents\isc\6to semestre\roos\Proyecto1\sistec2015\obj\x86\Debug\sistec2015.SERVICIO.resources
+C:\Users\miguel\Documents\isc\6to semestre\roos\Proyecto1\sistec2015\obj\x86\Debug\CONSULTORIO.vbproj.GenerateResource.Cache
+C:\Users\miguel\Documents\isc\6to semestre\roos\Proyecto1\sistec2015\obj\x86\Debug\sistec2015.Horario.resources
+C:\Users\miguel\Documents\isc\7vo semestre\MigueVB\Proyecto1\sistec2015\obj\x86\Debug\sistec2015.exe
+C:\Users\miguel\Documents\isc\7vo semestre\MigueVB\Proyecto1\sistec2015\obj\x86\Debug\sistec2015.xml
+C:\Users\miguel\Documents\isc\7vo semestre\MigueVB\Proyecto1\sistec2015\obj\x86\Debug\sistec2015.pdb
+C:\Users\miguel\Documents\isc\7vo semestre\MigueVB\Proyecto1\sistec2015\bin\Debug\Docs\path.txt
+C:\Users\miguel\Documents\isc\7vo semestre\MigueVB\Proyecto1\sistec2015\bin\Debug\sistec2015.exe
+C:\Users\miguel\Documents\isc\7vo semestre\MigueVB\Proyecto1\sistec2015\bin\Debug\sistec2015.pdb
+C:\Users\miguel\Documents\isc\7vo semestre\MigueVB\Proyecto1\sistec2015\bin\Debug\sistec2015.xml
+C:\Users\miguel\Documents\isc\7vo semestre\MigueVB\Proyecto1\sistec2015\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\miguel\Documents\isc\7vo semestre\MigueVB\Proyecto1\sistec2015\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\miguel\Documents\isc\7vo semestre\MigueVB\Proyecto1\sistec2015\obj\x86\Debug\CONSULTORIO.vbprojResolveAssemblyReference.cache
+C:\Users\miguel\Documents\isc\7vo semestre\MigueVB\Proyecto1\sistec2015\obj\x86\Debug\sistec2015.DENTISTA.resources
+C:\Users\miguel\Documents\isc\7vo semestre\MigueVB\Proyecto1\sistec2015\obj\x86\Debug\sistec2015.Horario.resources
+C:\Users\miguel\Documents\isc\7vo semestre\MigueVB\Proyecto1\sistec2015\obj\x86\Debug\sistec2015.FrmIngresar.resources
+C:\Users\miguel\Documents\isc\7vo semestre\MigueVB\Proyecto1\sistec2015\obj\x86\Debug\sistec2015.MEDICAMENTO.resources
+C:\Users\miguel\Documents\isc\7vo semestre\MigueVB\Proyecto1\sistec2015\obj\x86\Debug\sistec2015.RECETA.resources
+C:\Users\miguel\Documents\isc\7vo semestre\MigueVB\Proyecto1\sistec2015\obj\x86\Debug\sistec2015.REGISTRO.resources
+C:\Users\miguel\Documents\isc\7vo semestre\MigueVB\Proyecto1\sistec2015\obj\x86\Debug\sistec2015.FrmMenu.resources
+C:\Users\miguel\Documents\isc\7vo semestre\MigueVB\Proyecto1\sistec2015\obj\x86\Debug\sistec2015.Resources.resources
+C:\Users\miguel\Documents\isc\7vo semestre\MigueVB\Proyecto1\sistec2015\obj\x86\Debug\sistec2015.SERVICIO.resources
+C:\Users\miguel\Documents\isc\7vo semestre\MigueVB\Proyecto1\sistec2015\obj\x86\Debug\CONSULTORIO.vbproj.GenerateResource.Cache

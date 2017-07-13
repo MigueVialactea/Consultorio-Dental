@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "CONSULTORIO", "sistec2015\CONSULTORIO.vbproj", "{8643A53B-807E-46BD-AA08-0A61712C8D75}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		n|x86 = n|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8643A53B-807E-46BD-AA08-0A61712C8D75}.Debug|x86.ActiveCfg = Debug|x86
+		{8643A53B-807E-46BD-AA08-0A61712C8D75}.Debug|x86.Build.0 = Debug|x86
+		{8643A53B-807E-46BD-AA08-0A61712C8D75}.n|x86.ActiveCfg = n|x86
+		{8643A53B-807E-46BD-AA08-0A61712C8D75}.n|x86.Build.0 = n|x86
+		{8643A53B-807E-46BD-AA08-0A61712C8D75}.n|x86.Deploy.0 = n|x86
+		{8643A53B-807E-46BD-AA08-0A61712C8D75}.Release|x86.ActiveCfg = Release|x86
+		{8643A53B-807E-46BD-AA08-0A61712C8D75}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
